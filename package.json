@@ -1,0 +1,19 @@
+{
+  "name": "frequenc",
+  "version": "1.0.0",
+  "description": "A podcast club facilitator",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^0.14.7",
+    "react-redux": "^4.4.1",
+    "redux": "^3.3.1"
+  },
+  "devDependencies": {
+    "redux-devtools": "^3.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elise Kain",
+  "license": "ISC"
+}
