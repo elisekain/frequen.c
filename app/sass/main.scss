@@ -1,7 +1,29 @@
 body {
     background-image: url("../images/pattern_white.jpg");
+    margin: 0;
 }
 
-body {
-    color: red;
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.header {
+    background-color: #e7bb41;
+    img {
+        width: 20%;
+    }
+
+    ul {
+        list-style-type: none;
+        display: inline-block;
+        width: 60%;
+        float: right;
+        text-align: right;
+
+        li {
+            display: inline-block;
+            padding: 4%;
+        }
+    }
 }
